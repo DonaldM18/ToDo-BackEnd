@@ -1,0 +1,15 @@
+D:\ToDo\ToDo.BackEnd\ToDo.Datos\obj\Debug\net6.0\ToDo.Datos.csproj.AssemblyReference.cache
+D:\ToDo\ToDo.BackEnd\ToDo.Datos\obj\Debug\net6.0\ToDo.Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ToDo\ToDo.BackEnd\ToDo.Datos\obj\Debug\net6.0\ToDo.Datos.AssemblyInfoInputs.cache
+D:\ToDo\ToDo.BackEnd\ToDo.Datos\obj\Debug\net6.0\ToDo.Datos.AssemblyInfo.cs
+D:\ToDo\ToDo.BackEnd\ToDo.Datos\obj\Debug\net6.0\ToDo.Datos.csproj.CoreCompileInputs.cache
+D:\ToDo\ToDo.BackEnd\ToDo.Datos\bin\Debug\net6.0\ToDo.Datos.deps.json
+D:\ToDo\ToDo.BackEnd\ToDo.Datos\bin\Debug\net6.0\ToDo.Datos.dll
+D:\ToDo\ToDo.BackEnd\ToDo.Datos\bin\Debug\net6.0\ToDo.Datos.pdb
+D:\ToDo\ToDo.BackEnd\ToDo.Datos\bin\Debug\net6.0\ToDo.DtoModel.dll
+D:\ToDo\ToDo.BackEnd\ToDo.Datos\bin\Debug\net6.0\ToDo.DtoModel.pdb
+D:\ToDo\ToDo.BackEnd\ToDo.Datos\obj\Debug\net6.0\ToDo.Datos.csproj.CopyComplete
+D:\ToDo\ToDo.BackEnd\ToDo.Datos\obj\Debug\net6.0\ToDo.Datos.dll
+D:\ToDo\ToDo.BackEnd\ToDo.Datos\obj\Debug\net6.0\refint\ToDo.Datos.dll
+D:\ToDo\ToDo.BackEnd\ToDo.Datos\obj\Debug\net6.0\ToDo.Datos.pdb
+D:\ToDo\ToDo.BackEnd\ToDo.Datos\obj\Debug\net6.0\ref\ToDo.Datos.dll

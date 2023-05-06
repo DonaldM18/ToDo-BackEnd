@@ -1,0 +1,12 @@
+D:\ToDo\ToDo.BackEnd\ToDo.Entidades\bin\Debug\net6.0\ToDo.Entidades.deps.json
+D:\ToDo\ToDo.BackEnd\ToDo.Entidades\bin\Debug\net6.0\ToDo.Entidades.dll
+D:\ToDo\ToDo.BackEnd\ToDo.Entidades\bin\Debug\net6.0\ToDo.Entidades.pdb
+D:\ToDo\ToDo.BackEnd\ToDo.Entidades\obj\Debug\net6.0\ToDo.Entidades.csproj.AssemblyReference.cache
+D:\ToDo\ToDo.BackEnd\ToDo.Entidades\obj\Debug\net6.0\ToDo.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\ToDo\ToDo.BackEnd\ToDo.Entidades\obj\Debug\net6.0\ToDo.Entidades.AssemblyInfoInputs.cache
+D:\ToDo\ToDo.BackEnd\ToDo.Entidades\obj\Debug\net6.0\ToDo.Entidades.AssemblyInfo.cs
+D:\ToDo\ToDo.BackEnd\ToDo.Entidades\obj\Debug\net6.0\ToDo.Entidades.csproj.CoreCompileInputs.cache
+D:\ToDo\ToDo.BackEnd\ToDo.Entidades\obj\Debug\net6.0\ToDo.Entidades.dll
+D:\ToDo\ToDo.BackEnd\ToDo.Entidades\obj\Debug\net6.0\refint\ToDo.Entidades.dll
+D:\ToDo\ToDo.BackEnd\ToDo.Entidades\obj\Debug\net6.0\ToDo.Entidades.pdb
+D:\ToDo\ToDo.BackEnd\ToDo.Entidades\obj\Debug\net6.0\ref\ToDo.Entidades.dll

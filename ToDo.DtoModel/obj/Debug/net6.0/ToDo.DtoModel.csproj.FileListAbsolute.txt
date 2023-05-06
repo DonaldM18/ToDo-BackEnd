@@ -1,0 +1,12 @@
+D:\ToDo\ToDo.BackEnd\ToDo.DtoModel\bin\Debug\net6.0\ToDo.DtoModel.deps.json
+D:\ToDo\ToDo.BackEnd\ToDo.DtoModel\bin\Debug\net6.0\ToDo.DtoModel.dll
+D:\ToDo\ToDo.BackEnd\ToDo.DtoModel\bin\Debug\net6.0\ToDo.DtoModel.pdb
+D:\ToDo\ToDo.BackEnd\ToDo.DtoModel\obj\Debug\net6.0\ToDo.DtoModel.csproj.AssemblyReference.cache
+D:\ToDo\ToDo.BackEnd\ToDo.DtoModel\obj\Debug\net6.0\ToDo.DtoModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\ToDo\ToDo.BackEnd\ToDo.DtoModel\obj\Debug\net6.0\ToDo.DtoModel.AssemblyInfoInputs.cache
+D:\ToDo\ToDo.BackEnd\ToDo.DtoModel\obj\Debug\net6.0\ToDo.DtoModel.AssemblyInfo.cs
+D:\ToDo\ToDo.BackEnd\ToDo.DtoModel\obj\Debug\net6.0\ToDo.DtoModel.csproj.CoreCompileInputs.cache
+D:\ToDo\ToDo.BackEnd\ToDo.DtoModel\obj\Debug\net6.0\ToDo.DtoModel.dll
+D:\ToDo\ToDo.BackEnd\ToDo.DtoModel\obj\Debug\net6.0\refint\ToDo.DtoModel.dll
+D:\ToDo\ToDo.BackEnd\ToDo.DtoModel\obj\Debug\net6.0\ToDo.DtoModel.pdb
+D:\ToDo\ToDo.BackEnd\ToDo.DtoModel\obj\Debug\net6.0\ref\ToDo.DtoModel.dll

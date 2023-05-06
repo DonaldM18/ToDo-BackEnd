@@ -1,0 +1,12 @@
+D:\ToDo\ToDo.BackEnd\ToDo.Util\bin\Debug\net6.0\ToDo.Util.deps.json
+D:\ToDo\ToDo.BackEnd\ToDo.Util\bin\Debug\net6.0\ToDo.Util.dll
+D:\ToDo\ToDo.BackEnd\ToDo.Util\bin\Debug\net6.0\ToDo.Util.pdb
+D:\ToDo\ToDo.BackEnd\ToDo.Util\obj\Debug\net6.0\ToDo.Util.csproj.AssemblyReference.cache
+D:\ToDo\ToDo.BackEnd\ToDo.Util\obj\Debug\net6.0\ToDo.Util.GeneratedMSBuildEditorConfig.editorconfig
+D:\ToDo\ToDo.BackEnd\ToDo.Util\obj\Debug\net6.0\ToDo.Util.AssemblyInfoInputs.cache
+D:\ToDo\ToDo.BackEnd\ToDo.Util\obj\Debug\net6.0\ToDo.Util.AssemblyInfo.cs
+D:\ToDo\ToDo.BackEnd\ToDo.Util\obj\Debug\net6.0\ToDo.Util.csproj.CoreCompileInputs.cache
+D:\ToDo\ToDo.BackEnd\ToDo.Util\obj\Debug\net6.0\ToDo.Util.dll
+D:\ToDo\ToDo.BackEnd\ToDo.Util\obj\Debug\net6.0\refint\ToDo.Util.dll
+D:\ToDo\ToDo.BackEnd\ToDo.Util\obj\Debug\net6.0\ToDo.Util.pdb
+D:\ToDo\ToDo.BackEnd\ToDo.Util\obj\Debug\net6.0\ref\ToDo.Util.dll
